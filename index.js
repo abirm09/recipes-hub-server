@@ -14,6 +14,13 @@ app.get("/chefs/all", (req, res) => {
   res.send(chefsData);
 });
 
+//get chefs by id
+app.get("/chef/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const foundedChef = chefsData.find(chef => chef.id === id) || null;
+  res.send(foundedChef ? foundedChef : ["No data found"]);
+});
+
 app.listen(port, () => {
   console.log(`Server started at ${port}`);
 });
