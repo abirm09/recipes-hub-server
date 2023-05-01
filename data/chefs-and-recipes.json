@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "chefName": "Nusret Gökçe",
+    "photo": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2017_05/1890591/170203-salt-bae-mn-1530.jpg",
+    "yearsOfExperience": 20,
+    "likes": ["Meat", "Salt", "Grilling"],
+    "recipes": [
+      {
+        "recipeName": "Nusret Special Steak",
+        "photo": "https://www.theworlds50best.com/discovery/filestore/jpg/Nusret%20(1).jpg",
+        "ingredients": [
+          "Ribeye steak",
+          "Salt",
+          "Black pepper",
+          "Butter",
+          "Love"
+        ],
+        "cookingMethod": {
+          "description": "Grill the seasoned steak on high heat for a few minutes on each side, then finish with a pat of butter for added flavor and juiciness."
+        },
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Lahmacun",
+        "photo": "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_300,q_100,fl_lossy,dpr_2.0,c_fit,f_auto,h_300/dgt7d5by8xoochaalbh0",
+        "ingredients": [
+          "Ground lamb",
+          "Tomatoes",
+          "Onions",
+          "Parsley",
+          "Sumac",
+          "Red pepper flakes"
+        ],
+        "cookingMethod": {
+          "description": "Spread a thin layer of seasoned ground lamb mixture over a thin dough, then bake it in a hot oven until the crust is crispy and the topping is cooked."
+        },
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Kunefe",
+        "photo": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/05/kunefe-reels-yemekcom-1.jpg",
+        "ingredients": [
+          "Kadayif",
+          "Mozzarella cheese",
+          "Butter",
+          "Sugar syrup",
+          "Pistachios"
+        ],
+        "cookingMethod": {
+          "description": "Layer shredded kadayif pastry with mozzarella cheese, then bake until the cheese is melted and the pastry turns golden. Drizzle with sugar syrup and sprinkle crushed pistachios on top."
+        },
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Şemsa Denizsel",
+    "photo": "https://cdn.suslusozluk.com/content/images/original/36759_1577300048.jpg",
+    "yearsOfExperience": 25,
+    "likes": ["Mediterranean Cuisine", "Fresh Ingredients", "Healthy Cooking"],
+    "recipes": [
+      {
+        "recipeName": "Stuffed Eggplant with Ground Meat",
+        "photo": "https://img.tastelife.tv/assets/uploads/2020/02/00722-Eggplant-way2-thumb3-Bao-684x480.jpg",
+        "ingredients": [
+          "Eggplant",
+          "Ground meat",
+          "Onion",
+          "Garlic",
+          "Tomato",
+          "Pepper"
+        ],
+        "cookingMethod": {
+          "description": "Slice the eggplants, stuff them with a mixture of ground meat, onion, garlic, and spices, then bake until the eggplants are tender and the filling is cooked."
+        },
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Lemon Roasted Chicken",
+        "photo": "https://shewearsmanyhats.com/wp-content/uploads/2015/12/roasted-garlic-lemon-chicken-recipe-1.jpg",
+        "ingredients": ["Chicken", "Lemon", "Garlic", "Olive oil", "Herbs"],
+        "cookingMethod": {
+          "description": "Marinate the chicken with lemon juice, garlic, olive oil, and herbs, then roast it in the oven until golden and cooked through. Serve with roasted vegetables."
+        },
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Sesame Crusted Tuna Steak",
+        "photo": "https://www.feastingathome.com/wp-content/uploads/2021/06/Seared-Tuna-20.jpg",
+        "ingredients": [
+          "Tuna steak",
+          "Sesame seeds",
+          "Soy sauce",
+          "Ginger",
+          "Lime"
+        ],
+        "cookingMethod": {
+          "description": "Coat the tuna steak with sesame seeds, pan-sear it to desired doneness, and serve with a soy-ginger-lime sauce. Garnish with fresh herbs."
+        },
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefName": "Didem Şenol Tiryakioğlu",
+    "photo": "https://www.hotelrestaurantmagazine.com/wp-content/uploads/2019/01/DSC05560d.jpg",
+    "yearsOfExperience": 18,
+    "likes": ["Vegetarian Cuisine", "Local Ingredients", "Farm-to-Table"],
+    "recipes": [
+      {
+        "recipeName": "Manti with Yogurt Sauce",
+        "photo": "https://compassandfork.com/wp-content/uploads/2015/06/Manti.jpg",
+        "ingredients": [
+          "Manti pasta",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Yogurt",
+          "Mint"
+        ],
+        "cookingMethod": {
+          "description": "Boil manti pasta until tender, then serve with a yogurt sauce flavored with garlic and mint. Top with sautéed ground beef and drizzle with melted butter."
+        },
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Stuffed Grape Leaves",
+        "photo": "https://toriavey.com/images/2011/10/Stuffed-Grape-Leaves-Close.jpg",
+        "ingredients": [
+          "Grape leaves",
+          "Rice",
+          "Onion",
+          "Dill",
+          "Pine nuts",
+          "Olive oil"
+        ],
+        "cookingMethod": {
+          "description": "Stuff grape leaves with a mixture of rice, onion, dill, and pine nuts. Roll them tightly and cook in a pot with water and olive oil until tender."
+        },
+        "rating": 4.4
+      },
+      {
+        "recipeName": "Lentil Soup",
+        "photo": "https://iheartvegetables.com/wp-content/uploads/2021/02/Mediterranean-Lentil-Soup-8-of-15.jpg",
+        "ingredients": [
+          "Red lentils",
+          "Onion",
+          "Carrots",
+          "Potatoes",
+          "Tomato paste",
+          "Spices"
+        ],
+        "cookingMethod": {
+          "description": "Sauté onion, carrots, and potatoes, then add red lentils, water, and spices. Simmer until lentils are soft, then blend until smooth. Serve hot with crusty bread."
+        },
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Mehmet Gürs",
+    "photo": "https://images.squarespace-cdn.com/content/v1/5a7f18a90abd0439223f2c07/1551024097517-K721765A5QRRJA4TACXQ/kronotrop-39856.jpg",
+    "yearsOfExperience": 30,
+    "likes": ["Fusion Cuisine", "Local Ingredients", "Innovative Flavors"],
+    "recipes": [
+      {
+        "recipeName": "Istanbul Meze Platter",
+        "photo": "https://compassandfork.com/wp-content/uploads/2015/05/Meze-plate.jpg",
+        "ingredients": [
+          "Eggplant",
+          "Yogurt",
+          "Chickpeas",
+          "Red peppers",
+          "Olives",
+          "Herbs"
+        ],
+        "cookingMethod": {
+          "description": "Prepare a selection of traditional Istanbul mezes including roasted eggplant with yogurt, chickpeas in olive oil, charred red peppers, marinated olives, and fresh herbs. Serve with crusty bread."
+        },
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Manti with Brown Butter Sauce",
+        "photo": "https://www.helengraves.co.uk/wp-content/uploads/2017/01/Manti-with-lamb-garlic-yoghurt-and-spiced-butter-.jpg",
+        "ingredients": [
+          "Manti pasta",
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Butter",
+          "Paprika"
+        ],
+        "cookingMethod": {
+          "description": "Boil manti pasta until tender, then sauté with browned butter and paprika. Serve with a topping of sautéed ground beef and caramelized onions."
+        },
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Fish Kofta",
+        "photo": "https://images.smuckers.ca/images/recipes/16/recipe_5508.jpg",
+        "ingredients": [
+          "White fish fillets",
+          "Onion",
+          "Garlic",
+          "Breadcrumbs",
+          "Spices",
+          "Lemon"
+        ],
+        "cookingMethod": {
+          "description": "Blend white fish fillets, onion, garlic, breadcrumbs, and spices into a paste. Shape into kofta patties and grill until cooked. Serve with a squeeze of lemon."
+        },
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "CZN Burak",
+    "photo": "https://itp.live/cloud/2022/04/12/3-45-scaled.jpg",
+    "yearsOfExperience": 8,
+    "likes": ["Turkish Street Food", "Creative Presentations", "Viral Recipes"],
+    "recipes": [
+      {
+        "recipeName": "Turkish Pide",
+        "photo": "https://www.meatandtravel.com/wp-content/uploads/2017/09/how-to-make-turkish-pide-500x375.jpg",
+        "ingredients": [
+          "Flour",
+          "Yeast",
+          "Water",
+          "Ground meat",
+          "Cheese",
+          "Tomato",
+          "Pepper"
+        ],
+        "cookingMethod": {
+          "description": "Prepare a dough with flour, yeast, and water. Roll it out and top with a mixture of ground meat, cheese, tomato, and pepper. Bake until the crust is golden and the toppings are cooked."
+        },
+        "rating": 4.9
+      },
+      {
+        "recipeName": "Gozleme",
+        "photo": "https://thermobliss.com/wp-content/uploads/2020/05/Thermomix-Three-Cheese-Gozleme-Recipe-3-500x375.jpg",
+        "ingredients": [
+          "Flour",
+          "Spinach",
+          "Feta cheese",
+          "Onion",
+          "Olive oil",
+          "Yogurt"
+        ],
+        "cookingMethod": {
+          "description": "Prepare a dough with flour, roll it out, and fill with a mixture of spinach, feta cheese, onion, and olive oil. Cook on a griddle until the dough is crispy and the filling is cooked."
+        },
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Künefe",
+        "photo": "https://i.pinimg.com/originals/3d/af/ae/3dafaec58c76d1ce4b31bb7490513f20.jpg",
+        "ingredients": [
+          "Kadayif",
+          "Cheese",
+          "Butter",
+          "Sugar syrup",
+          "Pistachios"
+        ],
+        "cookingMethod": {
+          "description": "Layer shredded kadayif pastry with cheese, then bake until the cheese is melted and the pastry turns golden. Drizzle with sugar syrup and sprinkle crushed pistachios on top."
+        },
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Maksut Aşkar",
+    "photo": "https://i.lezzet.com.tr/images-xxlarge-secondary/m-aa66639f-5276-481a-9372-9fb1be230caf.jpg",
+    "yearsOfExperience": 20,
+    "likes": [
+      "Anatolian Cuisine",
+      "Traditional Cooking Techniques",
+      "Farm-to-Table"
+    ],
+    "recipes": [
+      {
+        "recipeName": "Ali Nazik Kebab",
+        "photo": "https://cdn.ye-mek.net/App_UI/Img/out/650/2013/04/ali-nazik-kebabi-resimli-yemek-tarifi(15).jpg?h=487&w=650",
+        "ingredients": [
+          "Lamb",
+          "Eggplant",
+          "Garlic",
+          "Yogurt",
+          "Tomato",
+          "Parsley"
+        ],
+        "cookingMethod": {
+          "description": "Grill or roast lamb, then finely chop or shred it. Grill eggplants and mash them with garlic. Layer mashed eggplants and lamb, then top with yogurt, tomato, and parsley."
+        },
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Tavuk Güveç",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/ea/85/00/chicken-casserole-a-new.jpg",
+        "ingredients": [
+          "Chicken",
+          "Onion",
+          "Tomato",
+          "Peppers",
+          "Herbs",
+          "Spices"
+        ],
+        "cookingMethod": {
+          "description": "Sauté chicken with onion, then transfer to a casserole dish. Add tomatoes, peppers, herbs, and spices. Bake in the oven until the chicken is cooked and the flavors meld together."
+        },
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Kesme Çorbası",
+        "photo": "https://img.lezizyemeklerim.com/tarif/14513/kesme-kare-ev-corbasi_ff71d7b4a5217e4401dcbad7d740e6ad/640x467.jpg",
+        "ingredients": ["Lamb", "Yogurt", "Flour", "Egg", "Mint", "Butter"],
+        "cookingMethod": {
+          "description": "Cook lamb until tender, then shred it. Prepare a dough with yogurt, flour, and egg. Cut the dough into small pieces and cook them in the lamb broth. Serve with shredded lamb, mint, and melted butter."
+        },
+        "rating": 4.7
+      }
+    ]
+  }
+]
