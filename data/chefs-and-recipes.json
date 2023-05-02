@@ -4,7 +4,7 @@
     "chefName": "Nusret Gökçe",
     "photo": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2017_05/1890591/170203-salt-bae-mn-1530.jpg",
     "yearsOfExperience": 20,
-    "likes": ["Meat", "Salt", "Grilling"],
+    "likes": 20000,
     "recipes": [
       {
         "recipeName": "Nusret Special Steak",
@@ -52,14 +52,15 @@
         },
         "rating": 4.6
       }
-    ]
+    ],
+    "description": "Nusret Gökçe, also known as Salt Bae, is a renowned Turkish chef and restaurateur. He gained international fame through his unique style of seasoning and serving meat, which involves a theatrical and flamboyant manner of sprinkling salt on the meat with a signature move. Nusret owns and operates a chain of high-end steakhouses called Nusr-Et, which has locations in various cities around the world. His captivating social media presence, where he shares videos of his culinary skills and stylish presentation, has garnered him millions of followers. Nusret's distinctive appearance, characterized by his slicked-back hair, sunglasses, and perfectly trimmed mustache, has also contributed to his iconic status. His passion for food and dedication to his craft have made him one of the most recognized and influential chefs in the culinary world."
   },
   {
     "id": 2,
     "chefName": "Şemsa Denizsel",
     "photo": "https://cdn.suslusozluk.com/content/images/original/36759_1577300048.jpg",
     "yearsOfExperience": 25,
-    "likes": ["Mediterranean Cuisine", "Fresh Ingredients", "Healthy Cooking"],
+    "likes": 12000,
     "recipes": [
       {
         "recipeName": "Stuffed Eggplant with Ground Meat",
@@ -101,14 +102,15 @@
         },
         "rating": 4.8
       }
-    ]
+    ],
+    "description": "Şemsa Denizsel is a talented Turkish chef known for her innovative approach to Anatolian cuisine. She is the owner of Kantin, a popular restaurant in Istanbul that focuses on using locally sourced, seasonal ingredients to create delicious and modern dishes."
   },
   {
     "id": 3,
     "chefName": "Didem Şenol Tiryakioğlu",
     "photo": "https://www.hotelrestaurantmagazine.com/wp-content/uploads/2019/01/DSC05560d.jpg",
     "yearsOfExperience": 18,
-    "likes": ["Vegetarian Cuisine", "Local Ingredients", "Farm-to-Table"],
+    "likes": 17000,
     "recipes": [
       {
         "recipeName": "Manti with Yogurt Sauce",
@@ -158,14 +160,15 @@
         },
         "rating": 4.7
       }
-    ]
+    ],
+    "description": "Didem Şenol Tiryakioğlu is a renowned Turkish chef and cookbook author. She is recognized for her expertise in Turkish cuisine and her efforts to promote traditional Turkish recipes. Didem owns the restaurant Çiya in Istanbul, where she showcases a wide range of regional Anatolian dishes."
   },
   {
     "id": 4,
     "chefName": "Mehmet Gürs",
     "photo": "https://images.squarespace-cdn.com/content/v1/5a7f18a90abd0439223f2c07/1551024097517-K721765A5QRRJA4TACXQ/kronotrop-39856.jpg",
     "yearsOfExperience": 30,
-    "likes": ["Fusion Cuisine", "Local Ingredients", "Innovative Flavors"],
+    "likes": 22000,
     "recipes": [
       {
         "recipeName": "Istanbul Meze Platter",
@@ -215,14 +218,15 @@
         },
         "rating": 4.6
       }
-    ]
+    ],
+    "description": "Mehmet Gürs is a well-known Turkish chef and restaurateur. He is the founder of Mikla, a critically acclaimed restaurant located in Istanbul. Mehmet combines Turkish and Scandinavian influences in his cuisine, creating unique and innovative dishes that have earned him international recognition."
   },
   {
     "id": 5,
     "chefName": "CZN Burak",
-    "photo": "https://itp.live/cloud/2022/04/12/3-45-scaled.jpg",
+    "photo": "https://www.timeoutdubai.com/cloud/timeoutdubai/2022/12/29/Chef-Burak-for-CZN-Burak-Gurme-1024x683-1.jpg",
     "yearsOfExperience": 8,
-    "likes": ["Turkish Street Food", "Creative Presentations", "Viral Recipes"],
+    "likes": 34000,
     "recipes": [
       {
         "recipeName": "Turkish Pide",
@@ -272,18 +276,15 @@
         },
         "rating": 4.8
       }
-    ]
+    ],
+    "description": "CZN Burak, whose real name is Burak Özdemir, is a popular Turkish chef and social media personality. Known for his entertaining cooking videos, CZN Burak has gained a massive following on various social media platforms. He owns several restaurants, including Hatay Medeniyetler Sofrası, where he serves traditional Turkish and Middle Eastern dishes."
   },
   {
     "id": 6,
     "chefName": "Maksut Aşkar",
     "photo": "https://i.lezzet.com.tr/images-xxlarge-secondary/m-aa66639f-5276-481a-9372-9fb1be230caf.jpg",
     "yearsOfExperience": 20,
-    "likes": [
-      "Anatolian Cuisine",
-      "Traditional Cooking Techniques",
-      "Farm-to-Table"
-    ],
+    "likes": 29000,
     "recipes": [
       {
         "recipeName": "Ali Nazik Kebab",
@@ -326,6 +327,7 @@
         },
         "rating": 4.7
       }
-    ]
+    ],
+    "description": "Maksut Aşkar is a celebrated Turkish chef known for his culinary expertise in Ottoman cuisine. He is the executive chef of Neolokal, a restaurant in Istanbul that showcases traditional Ottoman recipes with a modern twist. Maksut's passion for reviving and preserving Turkish culinary heritage has made him a prominent figure in the culinary scene."
   }
 ]
