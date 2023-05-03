@@ -30,21 +30,25 @@ app.get("/infoInNumber", (req, res) => {
   const data = [
     {
       id: 1,
+      name: "Chefs",
       totalChefs,
       img: "chef.png",
     },
     {
       id: 2,
+      name: "Recipes",
       totalRecipes,
       img: "search.png",
     },
     {
       id: 3,
+      name: "Photos",
       photos,
       img: "image-gallery.png",
     },
     {
       id: 4,
+      name: "Comments",
       comments,
       img: "bubble-chat.png",
     },
