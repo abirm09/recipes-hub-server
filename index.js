@@ -21,6 +21,15 @@ app.get("/chef/:id", (req, res) => {
   res.send(foundedChef ? foundedChef : ["No data found"]);
 });
 
+//info in number
+app.get("/infoInNumber", (req, res) => {
+  const totalChefs = chefsData.length;
+  const totalRecipes = totalChefs * 3;
+  const photos = totalRecipes;
+  const comments = 56;
+  res.send({ totalChefs, totalRecipes, photos, comments });
+});
+
 app.listen(port, () => {
   console.log(`Server started at ${port}`);
 });
