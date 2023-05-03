@@ -31,25 +31,25 @@ app.get("/infoInNumber", (req, res) => {
     {
       id: 1,
       name: "Chefs",
-      totalChefs,
+      count: totalChefs,
       img: "https://i.ibb.co/dbvqhg4/chef.png",
     },
     {
       id: 2,
       name: "Recipes",
-      totalRecipes,
+      count: totalRecipes,
       img: "https://i.ibb.co/nLthk9w/search.png",
     },
     {
       id: 3,
       name: "Photos",
-      photos,
+      count: photos,
       img: "https://i.ibb.co/Yf9Qy3k/image-gallery.png ",
     },
     {
       id: 4,
       name: "Comments",
-      comments,
+      count: comments,
       img: "https://i.ibb.co/SXvHjgQ/bubble-chat.png",
     },
   ];
