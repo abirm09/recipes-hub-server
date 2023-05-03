@@ -27,7 +27,29 @@ app.get("/infoInNumber", (req, res) => {
   const totalRecipes = totalChefs * 3;
   const photos = totalRecipes;
   const comments = 56;
-  res.send({ totalChefs, totalRecipes, photos, comments });
+  const data = [
+    {
+      id: 1,
+      totalChefs,
+      img: "chef.png",
+    },
+    {
+      id: 2,
+      totalRecipes,
+      img: "search.png",
+    },
+    {
+      id: 3,
+      photos,
+      img: "image-gallery.png",
+    },
+    {
+      id: 4,
+      comments,
+      img: "bubble-chat.png",
+    },
+  ];
+  res.send(data);
 });
 
 app.listen(port, () => {
